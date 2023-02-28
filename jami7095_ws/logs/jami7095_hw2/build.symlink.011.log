@@ -1,0 +1,25 @@
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/common-lisp/ros/jami7095_hw2/srv/_package_EchoString.lisp
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/common-lisp/ros/jami7095_hw2/srv/jami7095_hw2-srv.asd
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/common-lisp/ros/jami7095_hw2/srv/_package.lisp
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/common-lisp/ros/jami7095_hw2/srv/EchoString.lisp
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/gennodejs/ros/jami7095_hw2/_index.js
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/gennodejs/ros/jami7095_hw2/srv/EchoString.js
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/gennodejs/ros/jami7095_hw2/srv/_index.js
+Linked: (/home/gust/Desktop/CSCI5302/jami7095_ws/devel/.private/jami7095_hw2/share/jami7095_hw2/cmake/jami7095_hw2Config-version.cmake, /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/jami7095_hw2/cmake/jami7095_hw2Config-version.cmake)
+Linked: (/home/gust/Desktop/CSCI5302/jami7095_ws/devel/.private/jami7095_hw2/share/jami7095_hw2/cmake/jami7095_hw2Config.cmake, /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/jami7095_hw2/cmake/jami7095_hw2Config.cmake)
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/jami7095_hw2/cmake/jami7095_hw2-msg-paths.cmake
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/jami7095_hw2/cmake/jami7095_hw2-msg-extras.cmake
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/roseus/ros/jami7095_hw2/manifest.l
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/share/roseus/ros/jami7095_hw2/srv/EchoString.l
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/include/jami7095_hw2/EchoStringResponse.h
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/include/jami7095_hw2/EchoStringRequest.h
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/include/jami7095_hw2/EchoString.h
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/lib/python3/dist-packages/jami7095_hw2/__init__.py
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/lib/python3/dist-packages/jami7095_hw2/srv/__init__.py
+Symlinking /home/gust/Desktop/CSCI5302/jami7095_ws/devel/lib/python3/dist-packages/jami7095_hw2/srv/_EchoString.py
+Linked: (/home/gust/Desktop/CSCI5302/jami7095_ws/devel/.private/jami7095_hw2/lib/pkgconfig/jami7095_hw2.pc, /home/gust/Desktop/CSCI5302/jami7095_ws/devel/lib/pkgconfig/jami7095_hw2.pc)
+Linked: (/home/gust/Desktop/CSCI5302/jami7095_ws/devel/.private/jami7095_hw2/lib/jami7095_hw2/subscriber.py, /home/gust/Desktop/CSCI5302/jami7095_ws/devel/lib/jami7095_hw2/subscriber.py)
+Linked: (/home/gust/Desktop/CSCI5302/jami7095_ws/devel/.private/jami7095_hw2/lib/jami7095_hw2/server.py, /home/gust/Desktop/CSCI5302/jami7095_ws/devel/lib/jami7095_hw2/server.py)
+Linked: (/home/gust/Desktop/CSCI5302/jami7095_ws/devel/.private/jami7095_hw2/lib/jami7095_hw2/cmake.lock, /home/gust/Desktop/CSCI5302/jami7095_ws/devel/lib/jami7095_hw2/cmake.lock)
+Linked: (/home/gust/Desktop/CSCI5302/jami7095_ws/devel/.private/jami7095_hw2/lib/jami7095_hw2/client.py, /home/gust/Desktop/CSCI5302/jami7095_ws/devel/lib/jami7095_hw2/client.py)
+Linked: (/home/gust/Desktop/CSCI5302/jami7095_ws/devel/.private/jami7095_hw2/lib/jami7095_hw2/publisher.py, /home/gust/Desktop/CSCI5302/jami7095_ws/devel/lib/jami7095_hw2/publisher.py)

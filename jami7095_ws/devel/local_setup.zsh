@@ -1,0 +1,1 @@
+/home/gust/Desktop/CSCI5302/jami7095_ws/devel/.private/catkin_tools_prebuild/local_setup.zsh

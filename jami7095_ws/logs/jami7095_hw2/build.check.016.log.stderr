@@ -1,0 +1,13 @@
+[31m[1mCMake Error[0m at /home/gust/Desktop/CSCI5302/jami7095_ws/build/jami7095_hw2/cmake/jami7095_hw2-genmsg.cmake:3 (message):
+  Could not find messages which
+  '/home/gust/Desktop/CSCI5302/jami7095_ws/src/jami7095_hw2/srv/EchoString.srv'
+  depends on.  Did you forget to specify generate_messages(DEPENDENCIES ...)?
+
+  Cannot locate message [float]: unknown package [jami7095_hw2] on search
+  path [{{'std_msgs': ['/opt/ros/noetic/share/std_msgs/cmake/../msg']}}]
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:71 (generate_messages)
+
+
+make: *** [Makefile:698: cmake_check_build_system] Error 1

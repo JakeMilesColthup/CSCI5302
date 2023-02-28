@@ -1,0 +1,18 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _jami7095_hw2_generate_messages_check_deps_EchoString
+[ 14%] [34m[1mGenerating C++ code from jami7095_hw2/EchoString.srv[0m
+[ 28%] [34m[1mGenerating Python code from SRV jami7095_hw2/EchoString[0m
+[ 42%] [34m[1mGenerating Javascript code from jami7095_hw2/EchoString.srv[0m
+[ 71%] [34m[1mGenerating EusLisp code from jami7095_hw2/EchoString.srv[0m
+[ 71%] [34m[1mGenerating Lisp code from jami7095_hw2/EchoString.srv[0m
+[ 71%] Built target jami7095_hw2_generate_messages_nodejs
+[ 71%] Built target jami7095_hw2_generate_messages_lisp
+[ 85%] Built target jami7095_hw2_generate_messages_eus
+[100%] [34m[1mGenerating Python srv __init__.py for jami7095_hw2[0m
+[100%] Built target jami7095_hw2_generate_messages_cpp
+[100%] Built target jami7095_hw2_generate_messages_py
+[100%] Built target jami7095_hw2_generate_messages
