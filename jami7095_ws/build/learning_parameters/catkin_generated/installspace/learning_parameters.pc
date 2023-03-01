@@ -1,0 +1,8 @@
+prefix=/home/gust/Desktop/CSCI5302/jami7095_ws/install
+
+Name: learning_parameters
+Description: Description of learning_parameters
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

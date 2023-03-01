@@ -5,7 +5,7 @@ from jami7095_hw2.srv import EchoString, EchoStringResponse
 
 def handle_echo_string(req):
 	print("Returning Requested String [{}]".format(req.data))
-	return req.data, req.stamp1
+	return req.data
 
 def echo_string_server():
 	rospy.init_node('echo_string_server')

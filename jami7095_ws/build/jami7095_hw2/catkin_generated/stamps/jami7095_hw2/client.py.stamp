@@ -31,7 +31,7 @@ if __name__ == "__main__":
 	for i in range(400):
 		t1 = time.time()
 		echoed_str= echo_string_client(echo_str)
-		latency = (time.time() - t1) / 1000
+		latency = (time.time() - t1) * 1000
 		latency_arr.append(latency)
 		print("Echoed String is...{} with Latency: {}".format(echoed_str, latency))
 

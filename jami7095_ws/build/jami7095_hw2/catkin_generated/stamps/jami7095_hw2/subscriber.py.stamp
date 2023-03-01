@@ -19,9 +19,9 @@ def callback(data):
 
 	if len(latency_arr) == 400:
 		plt.hist(latency_arr, bins=50)
-		plt.xlabel("Latency [ms]")
-		plt.ylabel("Frequency")
-		plt.title("Message Latency Times for Pub/Sub Nodes Over 400 Trials")
+		plt.xlabel("Latency [ms]", fontsize=16)
+		plt.ylabel("Frequency", fontsize=16)
+		plt.title("Message Latency Times for Pub/Sub Nodes Over 400 Trials", fontsize=20)
 		plt.show()
 		rospy.signal_shutdown("400 Messages Received")
 

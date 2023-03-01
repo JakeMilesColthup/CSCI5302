@@ -1,0 +1,10 @@
+<launch>
+
+
+	<node pkg="learning_parameters" type="display_parameters.py" name="disp_params" output="screen">
+		<param name="\name" type="string" value="Jake Miles-Colthup" />
+		<param name="age" type="int" value="23" />
+		<param name="class" type="string" value="CSCI 5302" />
+	</node>
+
+</launch>
